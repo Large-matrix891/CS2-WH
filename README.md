@@ -4,6 +4,7 @@
 > 🧠 Game Sense triggers – full-rage & legit configs  
 > 🔐 **Archive password:** `2026`
 
+ ![Image alt](https://github.com/Ventrundershien/CS2-WH/blob/main/PicCS.png) 
  ![Image alt](https://github.com/Ventrundershien/CS2-WH/blob/main/sceet.jpg) 
 
 ## 🎯 Aimbot
